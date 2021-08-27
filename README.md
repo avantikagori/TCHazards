@@ -1,3 +1,5 @@
 # TCHazards
 
 Forecasted TC Hazards based on the National Hurricane Center official forecasts. Surge forecasts are based on ADCIRC modeling, wind forecasts are based on parametric wind models, and rainfall forecasts are downloaded from NWS. 
+
+![alt text](https://github.com/agori/TCHazards/al092021_1_rain.png?raw=true)
