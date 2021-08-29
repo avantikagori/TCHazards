@@ -16,6 +16,9 @@ Forecasted TC Hazards based on the National Hurricane Center official forecasts.
 # Peak Storm Tide Forecast 
 ![Alt text](al092021_15_surge.png?raw=true "Title")
 
+# Water Surface Elevation at Shell Beach, LA
+![Alt text](wsl_ShellBeach.png?raw=true "Title")
+
 # Estimated Peak Storm Tide Return Period
 ![Alt text](al092021_14_surge_RP.png?raw=true "Title")
 
