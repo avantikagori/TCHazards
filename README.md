@@ -22,3 +22,5 @@ Forecasted TC Hazards based on the National Hurricane Center official forecasts.
 # Estimated Peak Storm Tide Return Period
 ![Alt text](al092021_14_surge_RP.png?raw=true "Title")
 
+# Estimated Joint Rainfall-Surge Return Period 
+![Alt text](al092021_14_joint.png?raw=true "Title")
